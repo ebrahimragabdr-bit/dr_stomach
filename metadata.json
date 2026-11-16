@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Stomach — دكتور المعدة",
+  "description": "لعبة طبية تعليمية تفاعلية متكاملة في جراحة المعدة والاثني عشر (Chapter 30) مع 100+ سؤال، محاكي العيادة والطوارئ، ألعاب الأشعة والمواجهات، والوحش الأخير.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
